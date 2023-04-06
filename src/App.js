@@ -1,6 +1,6 @@
-import CssModule from "./Practice/CssModule/CssModule";
+// import CssModule from "./Practice/CssModule/CssModule";
 import styled, { ThemeProvider } from "styled-components";
-import SC from "./Practice/StyledComponents/SC";
+// import SC from "./Practice/StyledComponents/SC";
 import Button from "./Practice/StyledComponents/Button";
 
 const AppBlock = styled.div`
